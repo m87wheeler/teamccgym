@@ -102,7 +102,7 @@ const App = () => {
         src="https://player.vimeo.com/video/353970241?title=0&byline=0&portrait=0&player_id=iframe14275?autoplay=1&autopause=0&muted=1&background=1&playsinline=1"
         ratio="4:3"
         // playing={true}
-        playing={false}
+        playing={true}
         volume={0}
       >
         <VideoButton transparent size="lrg" style={{ position: "absolute" }}>
